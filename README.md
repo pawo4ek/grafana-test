@@ -1,5 +1,6 @@
 # grafana-test
-test deploying Grafana, Prometheus and Node Exporter
+test deploying Grafana, Prometheus and Node Exporter.
+
 For deploying make these steps:
 
 Deploy stack
